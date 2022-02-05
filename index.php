@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Homepage</title>
@@ -11,64 +10,158 @@
 
 	<font size="5">
 		<a href="#" style="font-size: 60px; text-decoration: none; color: #F0FFF0; text-shadow: 4px 2px #9400D3;">
-			<font face="garamond">
+			<font face="Century Gothic">
 				<strong>Scaffold 1</strong>
 				<img src="sun1.png" height="80" align="right" alt="Sun">
 			</font>
-		</a> <hr>   
+		</a>  
 	</font>
 
-	<br>
+	<a href="#groupmembers" style="color:#F0FFF0; text-decoration: none; text-shadow: 1px 3px #8B4513;">
+		<h1 align="center">
+			<img src="rocket1.png" height="50" alt="RocketShip"> Group 8 
+		</h1>
+	</a><hr>
+	
 
-	<a href="https://usls.instructure.com/courses/10645" target="_blank" style="font-size: 40px; color: white; text-decoration: none;text-shadow: 1px 2px blue;">
+	<a href="#tle" style="font-size: 40px; color: white; text-decoration: none;text-shadow: 1px 2px blue;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="astronaut1.png" height="130" alt="AstronautReading">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="astronaut.png" height="130" alt="AstronautDabbing">
 
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-		<img src="moon3.png" alt="Moon"> &nbsp; TLE
+		<img src="moon3.png" alt="Moon" height="63"> &nbsp;
+			<font style="font-size: 60px;"> TLE </font>
 	</a>
 
-	<a href="https://usls.instructure.com/courses/10561" target="_blank" style="font-size: 40px; color: white; text-decoration: none;text-shadow: 1px 2px #66FF00;">
+	<a href="#cae" style="font-size: 40px; color: white; text-decoration: none;text-shadow: 1px 2px #66FF00;">
 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-		<img src="earth1.png" alt="earth"> &nbsp; CAE
+		<img src="earth1.png" alt="earth" height="57"> &nbsp; 
+			<font face="georgia" style="font-size: 60px;">CAE</font>
 
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-		<img src="astronaut.png" height="90" alt="AstronautDabbing">
 	</a>
 
-	<br><br><br>
+	<br><br><br><br><br><br><br><br>
 
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-	<img src="astronaut1.png" height="90" alt="AstronautReading">
 
-	<a href="https://usls.instructure.com/courses/10589" target="_blank" style="font-size: 40px; color: white; text-decoration: none;text-shadow: 1px 2px #ff6b7a;">
+	<a href="#math" style="font-size: 40px; color: white; text-decoration: none;text-shadow: 1px 2px #ff6b7a;">
 
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-		<img src="saturn1.png" alt="Saturn"> &nbsp; MATH
+		<img src="saturn1.png" alt="Saturn" height="60"> &nbsp;
+			<font face="Georgia" style="font-size: 60px;"> MATH</font>
 	</a>
 
 	
-	<a href="https://usls.instructure.com/courses/10552" target="_blank" style="font-size: 40px; color: white; text-decoration: none;text-shadow: 1px 2px #FFAC1C;">
+	<a href="#cle" style="font-size: 40px; color: white; text-decoration: none;text-shadow: 1px 2px #FFAC1C;">
 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-		<img src="sun.png" alt="Sun"> &nbsp; CLE
+		<img src="sun.png" alt="Sun" height="62"> &nbsp; 
+			<font face="georgia" style="font-size: 60px;">CLE</font>
 	</a>
 
-	<br><br><br><br><br> <hr>
+	<br><br>
 
-	<a href="Group8.html" target="_blank" style="color:#F0FFF0; text-decoration: none; text-shadow: 1px 3px #8B4513;">
+	<a href="#groupmembers" style="color:#F0FFF0; text-decoration: none; text-shadow: 1px 3px #8B4513;">
 		&nbsp;
 		<h3 align="center">	
-			<img src="alien2.png" align="left" height="90" alt="AlienInSkateboard">
-			<img src="rocket1.png" height="50" alt="RocketShip"> Group 8 
-			<img src="alien.png" height="90" align="right" alt="AlienChilling">
+			<img src="alien2.png" align="left" height="120" alt="AlienInSkateboard">
+			<img src="alien.png" align="right" height="120" alt="AlienChilling">
 		</h3>
 	</a>
+
+	<br><br><br><br><br><br><br><hr><br><br><br><br><br>
+
+<!-- HERE-->
+
+	<a name="tle"></a>
+		<p align="center">
+			<font face="Century Gothic" color="white" style="font-size: 60px;"> TLE </font>
+		</p>
+
+		<p align="center">
+			<font color="white" size="5">
+				<i>&nbsp;&nbsp;Ms. Mei Carmelle Bancolo</i>
+			</font>
+		</p>
+
+		<br><br><br><br><br><br><br><br><br>
+
+		<p align="center"><img src="alien8.png"></p>
+
+		<br><br><br><br><br><br><br><br><hr><br><br><br><br><br>
+
+	<a name="cae"></a>
+		<p align="center">
+			<font face="Century Gothic" color="white" style="font-size: 60px;"> CAE </font> 
+		</p>
+
+		<p align="center">
+			<font color="white" size="5">
+				<i>&nbsp;&nbsp; Sir Ariel Villaceran</i>
+			</font>
+		</p>
+
+		<br><br><br><br><br><br><br><br><br>
+
+		<p align="center"><img src="alien5.png"></p>
+
+		<br><br><br><br><br><br><br><hr><br><br>
+
+	<a name="math"></a>
+		<p align="center">
+			<font face="Century Gothic" color="white" style="font-size: 60px;"> MATH </font>
+		</p>
+
+		<p align="center">
+			<font color="white" size="5">
+				<i>&nbsp;&nbsp; Ms. Janelle Javellana</i>
+			</font>
+		</p>
+
+		<br><br><br><br><br><br><br><br><br><br>
+
+		<p align="center"><img src="alien7.png">
+
+		</p><br><br><br><br><br><br><br><br><br><br><hr><br><br><br><br>
+
+	<a name="cle"></a>
+		<p align="center">
+			<font face="Century Gothic" color="white" style="font-size: 69px;"> CLE </font> 	
+		</p>
+
+		<p align="center">
+			<font color="white" size="5">
+				<i>&nbsp;&nbsp;Ms. Lily Gustilo</i>
+			</font>
+		</p>
+
+		<br><br><br><br><br><br><br><br><br><br>
+
+		<p align="center"><img src="alien6.png"></p>
+
+		<br><br><br><br><br><br><br><hr><br><br>
+
+	<a name="groupmembers"></a>
+		<p align="center">
+			<font face="Century Gothic" size= "14" color="white"> Group 8<br>Members: </font>
+		</p>
+
+		<p align="center">
+			<font color="white" size="5">
+				<i>&nbsp;Faye Allanah<br><br>Shairah Marie Javier<br><br>Mark Lester Colendres<br><br>Jan Aiken Bando<br><br>Emmanuel Abendan</i>
+			</font>
+		</p>
+
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+		<img src="alien3.png" align="center" height="200">
 
 </body>
 </html>
