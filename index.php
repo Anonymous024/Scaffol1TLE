@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>2nd Example</title>
+	<title>Homepage</title>
 </head>
 <body background="space.jpg" style="background-size: 100%;">
 	<br>&nbsp;&nbsp;
