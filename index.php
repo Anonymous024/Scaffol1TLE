@@ -6,12 +6,12 @@
 	<br>&nbsp;&nbsp;
 
 	<img src="astronaut2.png" height="80" alt="AstronautUsingLaptop">
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 	<font size="5">
 		<a href="#" style="font-size: 60px; text-decoration: none; color: #F0FFF0; text-shadow: 4px 2px #9400D3;">
 			<font face="Century Gothic">
-				<strong>Scaffold 1</strong>
+				<strong>TLE PERFORMANCE TASK</strong>
 				<img src="sun1.png" height="80" align="right" alt="Sun">
 			</font>
 		</a>  
@@ -22,18 +22,19 @@
 			<img src="rocket1.png" height="50" alt="RocketShip"> Group 8 
 		</h1>
 	</a><hr>
-	
 
-	<a href="#tle" style="font-size: 40px; color: white; text-decoration: none;text-shadow: 1px 2px blue;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="astronaut1.png" height="130" alt="AstronautReading">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#tle" style="font-size: 40px; color: white; text-decoration: none;text-shadow: 1px 2px blue;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="astronaut1.png" height="130" alt="AstronautReading">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<img src="astronaut.png" height="130" alt="AstronautDabbing">
 
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-		<img src="moon3.png" alt="Moon" height="63"> &nbsp;
-			<font style="font-size: 60px;"> TLE </font>
+		
 	</a>
 
 	<a href="#cae" style="font-size: 40px; color: white; text-decoration: none;text-shadow: 1px 2px #66FF00;">
+
+		<img src="sun.png" alt="Sun" height="62"> &nbsp; 
+			<font face="georgia" style="font-size: 60px;">CLE</font>
 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -51,7 +52,7 @@
 
 	<a href="#math" style="font-size: 40px; color: white; text-decoration: none;text-shadow: 1px 2px #ff6b7a;">
 
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 		<img src="saturn1.png" alt="Saturn" height="60"> &nbsp;
 			<font face="Georgia" style="font-size: 60px;"> MATH</font>
@@ -61,9 +62,6 @@
 	<a href="#cle" style="font-size: 40px; color: white; text-decoration: none;text-shadow: 1px 2px #FFAC1C;">
 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-		<img src="sun.png" alt="Sun" height="62"> &nbsp; 
-			<font face="georgia" style="font-size: 60px;">CLE</font>
 	</a>
 
 	<br><br>
@@ -76,26 +74,9 @@
 		</h3>
 	</a>
 
-	<br><br><br><br><br><br><br><hr><br><br><br><br><br>
-
 <!-- HERE-->
 
-	<a name="tle"></a>
-		<p align="center">
-			<font face="Century Gothic" color="white" style="font-size: 60px;"> TLE </font>
-		</p>
-
-		<p align="center">
-			<font color="white" size="5">
-				<i>&nbsp;&nbsp;Ms. Mei Carmelle Bancolo</i>
-			</font>
-		</p>
-
-		<br><br><br><br><br><br><br><br><br>
-
-		<p align="center"><img src="alien8.png"></p>
-
-		<br><br><br><br><br><br><br><br><hr><br><br><br><br><br>
+		<br><br><br><br><br><br><br><hr><br><br>
 
 	<a name="cae"></a>
 		<p align="center">
@@ -108,11 +89,13 @@
 			</font>
 		</p>
 
-		<br><br><br><br><br><br><br><br><br>
+		<br><br>
 
-		<p align="center"><img src="alien5.png"></p>
+		<a href="Critique Paper(2).pdf"><font face="Century Gothic" size="5"><center>CRITIQUE PAPER.pdf (Download)</center></font></a>
+		<br>
+		<center><img src="critiquepaper.png"></center>
 
-		<br><br><br><br><br><br><br><hr><br><br>
+		<br><br><hr><br><br>
 
 	<a name="math"></a>
 		<p align="center">
@@ -123,13 +106,12 @@
 			<font color="white" size="5">
 				<i>&nbsp;&nbsp; Ms. Janelle Javellana</i>
 			</font>
-		</p>
+		</p><br>
+		<h1 align="center"><font face="garamond" color="white" style="font-size:50px;">A Message of Hope</font></h1>
 
-		<br><br><br><br><br><br><br><br><br><br>
+		<center><iframe src="lv_0_20220225213509.mp4" height="69%" width="69%"></iframe></center>
 
-		<p align="center"><img src="alien7.png">
-
-		</p><br><br><br><br><br><br><br><br><br><br><hr><br><br><br><br>
+		<br><br><br><br><br><hr><br><br><br><br>
 
 	<a name="cle"></a>
 		<p align="center">
@@ -141,12 +123,12 @@
 				<i>&nbsp;&nbsp;Ms. Lily Gustilo</i>
 			</font>
 		</p>
+		<br>
 
-		<br><br><br><br><br><br><br><br><br><br>
+		<a href="Bullying.pdf"><font face="Century Gothic" size="5"><center> BULLYING.pdf (Download)</center></font></a> <br>
+		<center><img src="bullying.png"></center>
 
-		<p align="center"><img src="alien6.png"></p>
-
-		<br><br><br><br><br><br><br><hr><br><br>
+		<br><br><br><br><br><br><hr><br><br>
 
 	<a name="groupmembers"></a>
 		<p align="center">
