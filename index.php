@@ -109,7 +109,7 @@
 		</p><br>
 		<h1 align="center"><font face="garamond" color="white" style="font-size:50px;">A Message of Hope</font></h1>
 
-	<font face="Garamond" size="5" color="white"><center><a href="https://youtu.be/VJCI6yzrWOw">CLICK THIS VIDEO</a></center></font>
+	<center><iframe src="tlept.mp4" height="69%" width="69%"></center>
 
 		<br><br><br><br><br><hr><br><br><br><br>
 
